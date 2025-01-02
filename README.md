@@ -7,6 +7,6 @@ Dieses Programm trennt die Kalender benennt die Termine um in handlichere Namen 
 Aufruf mit den Parametern : Pfad/ics-Datei und Ausgabeverzeicnis
 Beispiel: java ICSFileSplitter /path/to/input.ics /path/to/output/directory
 
-Das Grundgerüst wurde von CHatGPT erstellt, was aber so nicht lauffähig war, da sich in Versison 4 von ical4j einiges geändert hat was manuell angepasst werden musste.
+
 
 
